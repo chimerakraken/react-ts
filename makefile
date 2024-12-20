@@ -29,3 +29,8 @@ test:
 .PHONY: eject
 eject:
 	npm run eject
+
+# Format
+.PHONY: format
+format:
+	npm run format
